@@ -1,4 +1,5 @@
 # Voice Effects Processor
+![demo-ui](https://raw.githubusercontent.com/MushroomFleet/Voice-Effect-Gradio/refs/heads/main/images/demo-uiii.png)
 
 A Python application to apply multiple creative voice effects on audio recordings. This application uses Gradio to present an interactive web interface for processing audio files using various DSP techniques, including reverb, frequency filtering, vibrato, formant shifting, echo, and distortion.
 
